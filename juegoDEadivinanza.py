@@ -22,5 +22,5 @@ def adivinalo():
             break
 
 adivinalo()
-
+# Esto solo son pruebas.
 print("Haciendo un comit.")
